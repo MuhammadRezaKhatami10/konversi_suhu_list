@@ -1,7 +1,7 @@
-Laporan Tugas Pertemuan 11 \
+Laporan Tugas Pertemuan 12 \
 Nama    : Muhammad Reza Khatami\
 Absen   : 16\
 Kelas   : TI-3C
 
 Screenshot Program\
-![SS1](https://user-images.githubusercontent.com/90266254/201558978-1e557508-aff0-4122-899c-dbd47dd18de9.png)
+![Screenshot1](https://user-images.githubusercontent.com/90266254/204179371-91450b0b-89b3-458e-a8e1-c8f556b1342d.png)
